@@ -1,1 +1,1 @@
-FROM ${SERVER_NAME}.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM rameshrc.jfrog.io/devops-101-workshop/ubuntu:16.04
